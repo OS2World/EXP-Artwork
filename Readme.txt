@@ -1,0 +1,2 @@
+This is just a crazy experiment. I grabbed all the artwork from old OS/2 CD's and repositories and tried to organize it and consolidate in my own crazy way. 
+I also included the original BPM files and new generared PNG files. 
