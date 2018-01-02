@@ -1,0 +1,99 @@
+Boot Logo for OS/2 Warp Version 4
+---------------------------------
+
+ATTENTION! This boot logo is only to be
+installed on OS/2 Warp 4. With older versions
+of OS/2, this logo will cause trouble.
+
+Usual reminder:
+-------------------
+Installing this can crash your software
+or hardware. Use at own risk. 
+NO WARRANTY!
+
+Installation:
+-------------
+1. So you already unzipped the zip file ;-)
+
+2. Open OS/2 window and type as follows:
+
+   [C:\]attrib -s -r -h os2logo
+   [C:\]ren os2logo os2logo.bak
+   [C:\]exit
+
+3. Now copy the "os2logo" file on your 
+   OS/2 boot drive, root directory.
+
+4. At next reboot, you will see the new
+   boot logo.
+
+Deinstallation
+--------------
+1. Open OS/2 window
+
+2. [C:\]ren os2logo os2logo.weg
+   [C:\]ren os2logo.bak os2logo
+   [C:\]exit
+
+3. At next reboot, you will see the old
+   boot logo.
+
+For comments, flames, hate-mails or 
+the like send e-Mail to 
+"Sven Siemsen" <sven@sven-siemsen.de>
+
+-----------
+
+Boot Logo fÅr OS/2 Warp Version 4
+---------------------------------
+
+ACHTUNG! Dieses Boot Logo kann _NUR_ fÅr
+OS/2 Warp 4 verwendet werden. Wenn es auf
+einer Ñlteren OS/2 Version installiert wird,
+fÅhrt dies mit Sicherheit zu Problemen.
+
+Das öbliche:
+------------
+FÅr die FunktionsfÑhigkeit der Datei wird KEINE
+Garantie Åbernommen. FÅr evtl. SchÑden an Soft-
+und Hardware sind Sie selbst verantworlich.
+Wenn Sie hiermit nicht einverstanden sind,
+installieren Sie das Logo nicht.
+
+Installation:
+-------------
+1. Das Zip-File haben Sie ja nun schon entpackt ;-)
+
+2. ôffnen Sie ein OS/2 Fenster (System - 
+   Befehlszeilen - OS/2 Fenster) und geben Sie
+   folgendes ein:
+
+   [C:\]attrib -s -r -h os2logo
+   [C:\]ren os2logo os2logo.bak
+   [C:\]exit
+
+3. Jetzt kopieren Sie die diesem Text beiliegende
+   Datei "os2logo" auf das Laufwerk, auf dem Sie 
+   OS/2 installiert haben, und zwar in das
+   Wurzelverzeichnis.
+
+4. Beim nÑchsten Neustart sehen Sie Das neue Boot Logo.
+
+Deinstallation
+--------------
+1. OS/2 Fenster îffnen
+
+2. [C:\]ren os2logo os2logo.weg
+   [C:\]ren os2logo.bak os2logo
+   [C:\]exit
+
+3. Beim nÑchsten Neustart sehen Sie Das alte Boot Logo.
+
+FÅr Anregungen, Ha·-Mails und Flames
+schicken Sie eine e-Mail an
+"Sven Siemsen" <sven@sven-siemsen.de>
+
+
+
+
+

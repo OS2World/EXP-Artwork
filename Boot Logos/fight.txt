@@ -1,0 +1,43 @@
+Bootlogo for OS/2 Warp - in Manga-style.
+
+There are a few groups to publish OS/2 related paperbooks and programs
+at "Comic Market" in Japan. My "Nutshell" is a group of them.
+This fight.lgo was one of my products published at Comic market 58,
+Aug 12, 2000, and it was well received by my friends.
+I hope you like this.
+
+!! This bootlogo is for Warp 4 or higher.
+Don't use this on older version of OS/2.
+
+[Contains]
+fight.lgo       Bootlogo for OS/2 Warp 4.
+fight.bmp       Same image as fight.lgo, in bitmap format.
+fight.jpg       Original picture, appear in our paperbook "Lovely OS/2 vol.3".
+instlogo.bmp    Rexx script to Install/uninstall fight.lgo
+
+[Installation]
+To install, open command prompt and type
+> instlogo c:           (in case of OS/2 boot drive is c:)
+then the rexx script instlogo.cmd will do follows
+  1) attrib -r -h -s c:\OS2LOGO
+  2) copy c:\OS2LOGO c:\OS2LOGO.BAK
+  3) copy fight.lgo c:\OS2LOGO
+  4) attrib +r +h +s c:\OS2LOGO
+  5) attrib +r +h +s c:\OS2LOGO.BAK
+
+and, to uninstall (restore original logo), type
+> instlogo c: /u
+then instlogo.cmd will do follows
+  1) attrib -r -h -s c:\OS2LOGO
+  2) attrib -r -h -s c:\OS2LOGO.BAK
+  3) copy c:\OS2LOGO.BAK c:\OS2LOGO
+  4) attrib +r +h +s c:\OS2LOGO
+  5) attrib +r +h +s c:\OS2LOGO.BAK
+
+
+I'm glad to know your impression.
+Please mail me, or write on message board on my web page.
+
+Thanx to download,
+Achain <achain@netlaputa.ne.jp>
+http://www.netlaputa.ne.jp/~achain/

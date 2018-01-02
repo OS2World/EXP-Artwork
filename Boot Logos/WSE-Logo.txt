@@ -1,0 +1,38 @@
+
+WSeB Bootlogos
+==============
+
+The bootlogo shipped with WSeB isn't perfect (wrong colored pixels), 
+I cleaned up a little bit and added some stuff ...
+
+aurora.lgo           new bootlogo with Aurora writing 
+warp4.lgo            refreshed old Warp4 bootlogo
+wseb.lgo             refreshed WSeB bootlogo
+wsebhpfs386.lgo      refreshed WSeB bootlogo with HPFS386 writing 
+
+
+Install
+=======
+
+On your boot drive in root is the hidden file OS2LOGO, remove the 
+hidden/read only/system attribute with attrib command or take any 
+file manager to do this, backup this file and replace it with one 
+file from this package, change file name to OS2LOGO.
+
+In short do the following [boot drive is c:\]:
+
+ [1] attrib -r -h -s C:\OS2LOGO
+ [2] copy C:\OS2LOGO C:\OS2LOGO.BAK
+ [3] copy xxx.lgo C:\OS2LOGO
+
+
+Enjoy !
+
+mike <mike@os2usr.org>
+
+
+Note
+====
+
+Do not use these files with Warp 3 ! Use at your own risk ! 
+

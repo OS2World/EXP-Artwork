@@ -1,0 +1,84 @@
+
+
+Here are some screenshots from Lotus Word Pro for OS/2.  This version is
+still in beta testing (the beta program is closed to new applicants).
+
+In screenshots with Lotus Infoboxes(TM), you will notice little red
+lines at various places.  These red lines obviously will not be in the
+final release version.
+
+Here are some brief descriptions of the screenshots:
+
+LWP1.GIF:  This shows the tabs that indicate sections in a document and
+the bubble help.  This the same sort of bubble help that is rumored to
+be in Merlin.
+
+LWP2.GIF: This and several following shots show how easy it is to convert
+simple text into a table and then how to cut & paste the table to create
+nice looking, full-color graphics.
+
+The marked text can be found in the Word Pro test document 'busplan.lwp'.
+
+LWP3.GIF: The dialog box shown is the result of choosing 'Create' and
+'Table' from the Word Pro menu.
+
+LWP4.GIF: Presto!  We just converted a simple text table into a real
+table.  Incidentally, each cell in the table has its own properties,
+such as linetype, color, hatch patterns etc.  All these properties are
+modified using a Lotus Infobox.  Cell properties can be modified
+independently, by row, column or matrix.
+
+LWP5.GIF: Now we want to add some splash to our Business plan, so we
+want to replace the boring old table with a nice color bar chart.  First
+we choose what kind of chart we want.  In this case, we picked a semi-3d
+bar chart.  As you can see from the list of chart types and chart
+styles, dozens of charting possibilities exist.
+
+LWP6.GIF: Now we simply paste the table into the chart's data table.  Of
+course, you may edit the numbers directly, import data from a file or
+fill by example.  A preview of the chart is shown at all times.
+
+Charting makes full use of OS/2 advanced multitasking features.  You can
+see under the 'Edit Data' dialog box the chart we are creating.  The
+actual chart is updated in the document as we make changes in the dialog
+box.  That's power!
+
+LWP7.GIF: The chart is finished!  From opening the document to the
+finish, this chart took less than one minute to create.  Though I wasn't
+counting mouse clicks, I would guess it took fewer than 15 mouse clicks
+to complete the chart, and I didn't use the keyboard once.
+
+Word Pro's advanced features are powerful yet easy enough for even first
+time users to get work done right away.
+
+LWP8.GIF: This is the Import Picture dialog box.  Notice the image
+preview to the right.  You don't have to remember what the image looks
+like anymore.  Clip-art is also previewed.  Incidentally, Word Pro
+documents themselves are previewed in the Open File dialog box (not
+shown).
+
+LWP9.GIF: We have imported our graphic, and now we see the Frame
+properties Infobox.  Every property pertaining to this particular frame is
+set using this Infobox.
+
+LWP_DRAW.GIF: Here is a drawing frame and the Drawing pallettes and
+Infobox.  The toolbars in Word Pro can be attached to the top, bottom,
+either the left or right sides, or, as shown here, they can 'float'
+wherever you set them.
+
+LWP_EQUA.GIF: Here are the Equation Editor toolboxes and a Frame Infobox.
+Equations can be inserted into frames or into the main document, just
+like ordinary text.
+
+
+DISCLAIMER:
+These screenshots have not been released by Lotus Development, and
+therefore must be regarded as unofficial.
+
+These screenshots may not be construed to represent any aspect of the final
+release of Word Pro for OS/2; any or all of the features depicted may change
+solely at the whim of Lotus Development Corp.
+
+All Trademarks belong to their respective owners.
+
+

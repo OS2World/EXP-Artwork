@@ -1,0 +1,42 @@
+ 컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+ Filename: ibmlogo3.zip
+ ------------------------------------------
+ New warp boot logo for OS/2 Warp 3.0
+ Updates OS/2 boot logo from the original
+ "box" style to the current Warp "Logo"
+ style (Warp in Red letters with the 
+ "IBM Swirl" effect that will be used in 
+ all future Warp releases.
+
+ Please refer to README file for install
+ information.
+ 컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+
+
+
+Installation:
+
+Unzip this zip file into the root directory of the OS/2 boot drive.
+In the root directory of the OS/2 boot drive there is a file named
+OS2LOGO.  It is necessary to remove the read, hidden, and system
+attributes from this file, make a backup copy, then rename the 
+OS2LOGO3 file OS2LOGO.  Next time the computer is rebooted, the new
+logo screen will appear.
+
+
+Example: OS/2 on drive C
+
+C:> attrib os2logo
+RSHA_  c:\os2logo
+
+
+C:\> attrib -r -s -h os2logo
+___A_  c:\os2logo
+
+
+C:\>ren os2logo os2logo.bak
+     1 file renamed
+
+
+C:\> ren os2logo3 os2logo
+     1 file renamed

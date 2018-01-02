@@ -1,0 +1,20 @@
+Multics.lgo: a "Multics" boot logo for OS/2 Warp.
+
+Installation: Make sure you have an alternate boot disk available, 
+just in case (floppy, maintenance partition, etc).
+
+The OS/2 Warp boot logo is a file named "os2logo" in the root directory
+of your boot drive.  
+
+1. unprotect this file  by typeing cd x:\ at the OS/2 command prompt, 
+   where x is your boot drive.Then type: "attrib -s -h -r os2logo".
+
+2. Back up or rename your original OS2LOGO file. For example:
+   "copy os2logo os2logo.old".
+ 
+3. Copy the file MULTICS.LGO as OS2LOGO to replace the above.
+   "copy multics.lgo os2logo".
+
+4. Shutdown and reboot.
+ 
+

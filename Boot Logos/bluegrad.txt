@@ -1,0 +1,51 @@
+Alex's OS/2 Boot Logos 
+
+Starting with FixPak 13 for OS/2 Warp 4, a short white-on-black version string
+is printed at the bottom left corner of the boot logo screen, over top of the
+logo graphic. (This behaviour also occurs in OS/2 Warp Server for e-business).
+In my humble view, this tends to stick out like a sore thumb on the bright
+blue default boot logo.
+
+My idea was to create some new boot graphics which were already dark in the
+lower left corner, thereby hopefully making the version string a bit less
+intrusive.
+
+    bluegrad.lgo     OS/2 Warp banner on an inclined blue gradient.                      
+
+    blueibm.lgo      Much the same, but with the IBM logo.
+
+    blueibm2.lgo     Another IBM-logo version, but with a horizontal gradient.
+
+    dblgrad.lgo      A double gradient.  No drop shadow on the IBM logo.
+
+    dblgrad2.lgo     The same double gradient, but the OS/2 banner is a
+                     different shade.
+
+    wseb.lgo         This is a logo designed for Warp Server for
+                     e-business, a.k.a. Aurora.                             
+
+Do not attempt to use any of the above logos on a Warp 3 system! They are
+designed for Warp 4 or Aurora only.  
+
+    wserver.lgo      This file is for Warp Server; it may be used on a Warp
+                     3 system.
+
+
+To replace the OS/2 boot logo, rename the .LGO file to 'OS2LOGO', and replace
+the system, hidden, and read-only file 'OS2LOGO' in the root of the boot
+drive. The new file must have the same flags set. For example:
+
+   [C:\]attrib -s -h -r OS2LOGO
+   [C:\]move OS2LOGO \OS2\INSTALL\DEFAULT.LGO
+   [C:\]ren BLUEGRAD.LGO OS2LOGO
+   [C:\]attrib +s +h +r OS2LOGO
+
+
+For more information, updates, and some wallpaper versions of the above
+logos, visit
+   http://eddie.cis.uoguelph.ca/~alex/graphics/graphics.html
+
+Alex Taylor
+July 22, 2000
+Comments, kudos, complaints to alex@eddie.cis.uoguelph.ca
+

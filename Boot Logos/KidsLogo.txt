@@ -1,0 +1,107 @@
+KidsLogo, a boot logo for WARP
+Created with Jon Czerwinski's PrepLogo
+Take a glimpse into the mind of a child and
+see that the most innocent and untainted
+know which operating system is better.
+
+KidsLogo, a boot logo for WARP
+Created with Jon Czerwinski's PrepLogo
+Smart moms know, smart kiddies use OS/2!
+
+Thanks for obtaining this replacement boot logo for OS/2 WARP.
+
+This logo was created using Jonathan Czerwinski's PrepLogo.
+PrepLogo V1.0 will read any uncompressed bitmap 
+(easily produced by any number of bitmap viewers), in any number of colors up to
+256, in any resolution up to 640x480, and produce a native OS/2 Warp Boot Logo!
+An order form for PrepLogo has been included at the bottom of this file so
+that you may begin creating your own boot logos for OS/2 WARP. 
+
+KIDSLOGO.lgo:
+This particular logo shows that even children know a great OS when they see it.
+--
+  Keith
+
+
+JC:----------
+To change your logo:
+
+1) Turn off the attributes of the OS2LOGO file:
+
+   attrib -s -h -r OS2LOGO
+
+2) Back up the OS2LOGO file:
+
+   copy OS2LOGO OS2LOGO.ORG
+
+3) Copy a new logo file into the OS2LOGO file:
+
+   copy KIDSLOGO.LGO OS2LOGO
+
+4) [Optional] Turn the attributes back on:
+
+   attrib +s +h +r OS2LOGO
+
+Reboot!
+
+NOTE:  The boot logo format is NOT an OS/2 BMP format.  Don't copy a normal
+BMP file into OS2LOGO, or you will render you machine unbootable!  It is
+always a good idea to have a copy of the Warp boot disks created from the
+"Create Utility Disks" program in System Settings before modifying your
+system.
+
+
+
+PrepLogo is on Hobbes in os2/warp/sysutil. 
+The name is plogo100.zip
+
+*********************************************************************
+
+               ORDER FORM *** ORDER FORM *** ORDER FORM
+
+You may use this form to order PrepLogo V1.0 from Jonathan Czerwinski
+
+=====================================================================
+
+My E-mail address is:
+
+
+    ____________________________________________________________
+
+
+Mail the registration card to:
+
+
+    ____________________________________________________________
+
+    ____________________________________________________________
+
+    ____________________________________________________________
+
+    ____________________________________________________________
+
+    ____________________________________________________________
+
+
+Note: I can usually e-mail registration confirmations out within a few
+days. Allow 4-6 weeks for paper mail.
+
+==========================PAYMENT====================================
+
+Enclosed is my check or money order, made out for the amount 
+of US$10.00 to "Jonathan Czerwinski".
+
+Send this form and payment to:
+
+     Jonathan Czerwinski
+     2747-9 Briarcliff Rd
+     Atlanta, GA 30329
+
+
+                    *** THANKS FOR YOUR ORDER! ***
+
+*********************************************************************
+
+-------------------------
+PrepLogo is on Hobbes in os2/warp/sysutil. 
+The name is plogo100.zip

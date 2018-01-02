@@ -1,0 +1,40 @@
+Evil Grey Alien boot logo for OS/2.
+
+OBSCURA! has made it easy to replace your standard boot screen logo with a GREY alien.
+Follow the simple instructions or you will be abducted.
+
+IMPORTANT SAFETY TIP!
+=====================
+
+OS/2 Warp includes a program object titled "Create Utility Diskettes" in the 
+System Setup Folder.  This object will create boot diskettes in case you cannot 
+boot from your hard drive.  But you must have these diskettes created *before* 
+you need them!  If you don't already have some alternate means of booting OS/2, 
+you should create these diskettes before changing the boot logo.
+
+BACK UP the original OS2LOGO file.  I copied mine into "os2logo.org".  To copy 
+it, you will first have to remove the attributes on the file.  This is done by
+typing "attrib -s -h -r os2logo" at the OS/2 Command Prompt.
+
+Changing the boot logo is as simple as copying 
+"GREYBOOT.lgo" to "os2logo" on your boot drive.  You will have to remove the
+attributes on "os2logo" before you can copy your new logo on.  This is done by
+typing "attrib -s -h -r os2logo" at the OS/2 Command Prompt.  NOTE:  You should 
+have already done this when you backed up your original OS2LOGO file.  You did 
+back it up, didn't you?
+
+
+Thanks for downloading GREYboot.zip!
+===============================
+There is also a set of GREY alien pointers for OS/2.  Look for greyptr.zip!
+
+For more information on where this interesting image was found visit the GREY Overlord page on Obscura!
+
+	http://www.obscurasite.com/nick/grey.html
+
+The GREYBOOT.lgo file was converted by Jon Winters. <winters@obscurasite.com>
+GREYBOOT is Public Domain! 
+
+
+
+

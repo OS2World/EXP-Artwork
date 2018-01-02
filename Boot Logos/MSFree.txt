@@ -1,0 +1,4 @@
+Modified OS/2 Warp 4 logo with
+a "Microsoft Free" sticker.
+Run INSTLOGO.CMD, only for
+Warp 4.

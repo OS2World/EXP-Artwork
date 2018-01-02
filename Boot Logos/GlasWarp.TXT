@@ -1,0 +1,37 @@
+You should probably have word wrap on for this....
+
+Heya, this is just the readme file for the GlassWarp boot-logo and bitmap files.  All it's for is for those of you that don't know just what to do to change your boot-logo.  If you have Warp 4 you can use either logo, but the GlasWrp5.lgo is larger, and will fill up the screen right, but then if you've got Warp 3, you MUST MUST MUST use the GlasWrp3.lgo, or you computer will lock up [trap] (or so I'm told, but don't tell me I didn't warn you).  So all you have to do is rename your current/original boot-logo, which is the file "os2logo" in your boot drive's root directory.  It's hidden, and read-only, and a system file, so you have to get rid of that stuff.  So do this at a command prompt:
+
+	attrib os2logo -h -r -s
+
+And now you can mess with it.  Move it to another directory, or another filename, or just delete it if you want.  Then you have to replace this file with one of the GlassWarp logos.  So do something like this [but substitute you boot drive letter for my "X" and substitute "4" for "3" if you're using Warp 4"]
+
+	copy GlasWrp3.lgo X:\os2logo
+
+And then finally if you want to you can make os2logo hidden and read-only and system again, by doing this:
+
+	attrib os2logo +h +r +s
+
+That's all there is to it.  And the swell GlasWarp.bmp is the original bitmap I made the logos from, and I made it in NeonGrafix, which is just so keen, don't'cha know?  
+
+Justin
+justinrc@unm.edu
+JustinRC@aol.com
+
+
+                           Upload Information Template for Hobbes.nmsu.edu
+                           ===============================================
+
+            Archive Name:  WarpGlas.zip
+     Archive Description:  Warp 4
+Operating System/Version:  OS/2 Warp 3 or 4
+          Program Source:
+                Replaces:
+
+               Your name:  Justin Curtner
+      Your email address:  justinrc@unm.edu or JustinRC@aol.com
+
+      Proposed directory
+           for placement:  /pub/multimedia/images/bootlogo/
+
+

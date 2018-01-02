@@ -1,0 +1,33 @@
+OS/2 Computing! Magazine 
+Presents:
+
+	** The OS/2 Computing! Boot Up logos **
+
+The following is the instructions for installing these series of logos
+into your computer. Please follow the instructions while making the 
+appropriate changes as you see fit to complete the replacement of the
+OS/2 default boot up logo.
+
+Installation:                                                                  
+
+Unzip this zip file into the root directory of the OS/2 boot drive.
+In the root directory of the OS/2 boot drive there is a file named
+WELCOME??.LGO.  It is necessary to remove the read, hidden, and system
+attributes from this file, make a backup copy, then rename the
+WELCOME??.LGO file OS2LOGO.  Next time the computer is rebooted, the new
+logo screen will appear.
+
+
+Example: OS/2 on drive C
+
+C:> attrib os2logo
+RSHA_  c:\os2logo
+
+
+C:\> attrib -r -s -h os2logo
+___A_  c:\os2logo
+
+
+C:\>ren os2logo os2logo.bak
+     1 file renamed
+
