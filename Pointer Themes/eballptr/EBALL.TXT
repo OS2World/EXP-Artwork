@@ -1,0 +1,93 @@
+                             The eBall Pointers
+==========================================================================
+Description...: eBall theme pointers for eComStation. 
+                v20070509. 
+
+Prerequisites.: eComStation v1.0+, a minimum of 256 colors for a better
+                look. 
+
+Installation..: Extract this archive in X:\OS2\POINTERS (where "X" is
+                your boot drive letter). 
+                Open the "Mouse" object located in "Local system" \
+                "System Settings" and go to the "Pointers" tab. 
+                Press the "Locate" button, select the "eBall" folder and
+                click on "OK". 
+                And voil…!  The new pointers are set. (Oh la la!)
+
+Disclaimer....: the eBall logo is a trademark of Serenity Systems, Inc. 
+
+                This work is free of charge. 
+
+                You may use my pointers and you may distribute them to
+                others so long as all files are left unchanged.  You may
+                not distribute them in any way which leads to your making
+                a profit from it.  This means that you can only charge
+                enough to cover the costs of media, postage etc. involved
+                in distribution.  Also you may not use it as an incentive
+                to buy something else. 
+                If you are in any doubt you should contact the author. 
+
+                These pointers are provided on an "as is" basis and are
+                to be used at your own risk. 
+
+Contact.......: If you want to tell me
+                 * you like my pointers,
+                 * my pointers fill your hart and your soul with joy,
+                 * my pointers have changed your life,
+                 * you love me (note that I am married and I love my
+                   wife),
+                 * you want to give me (a lot of) money,
+                 or any other weird things,
+                 then feel free to e-mail it to me! 
+                                                          - Guillaume Gay
+                                                 GuillaumeGay@bigfoot.com
+
+                              --------------------
+
+Description...: Pointeurs eBall pour eComStation. 
+                v20070509. 
+
+Pr‚requis.....: OS/2 v3+, eComStation v1.0+, un minimum de 256 couleurs
+                pour un meilleur aspect. 
+
+Installation..: Extrayez cette  archive dans X:\OS2\POINTERS (o— "X" est
+                la lettre de votre disque d'amor‡age).
+                Ouvrez l'objet "Souris" situ‚ dans "Poste local" \
+                "Configuration du systŠme" et allez sur l'onglet
+                "Pointeurs".
+                Appuyez sur le bouton "Chargement...", s‚lectionnez le
+                dossier "eBall" et cliquez sur "OK".
+                Et voil… ! Vous avez de nouveaux pointeurs !
+
+R‚clamations..: Le logo eBall logo est une marque d‚pos‚e de Serenity
+                Systems, Inc.
+
+                Ce travail est gratuit.
+
+                Vous pouvez utiliser mes pointeurs et les distribuer …
+                d'autres tant que tous les fichiers demeurent inchang‚s.
+                Vous ne devez pas les distribuer dans un but lucratif.
+                Cela signifie vous ne pouvez demander qu'une somme
+                couvrant les frais de supports, d'envoi, etc. engendr‚s
+                par la distribution. Vous ne pouvez pas non plus
+                l'utiliser dans l'intention de vendre autre chose.
+                En cas de doute, veuillez contacter l'auteur.
+
+                Ces pointeurs sont fournis "tel quel", sans aucune garanti
+                expresse ou implicite et vous les utilisez … vos propres
+                risques et p‚rils.
+
+Contact.......: Si vous ressentez l'envie de me dire que
+                 * vous aimez mes pointeurs,
+                 * mes pointeurs remplissent de joie votre petit coeur et
+                   appaisent votre esprit,
+                 * mes pointeurs ont chang‚s votre vie,
+                 * vous m'aimez (notez que je suis mari‚ et que j'aime ma
+                   femme),
+                 * vous voulez me donner (beaucoup, beaucoup) d'argent,
+                 ou toutes autres choses z'amusantes z'et sympathiques,
+                donnez vous la peine de m'envoyer un courriel !
+                                                          - Guillaume Gay
+                                                 GuillaumeGay@bigfoot.com
+==========================================================================
+
